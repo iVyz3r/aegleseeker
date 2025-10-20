@@ -5,6 +5,6 @@ pip install pymem
 pip install dearpygui
 pip install pypresence
 pip install pyinstaller
-py main.py
+py aeglemain.py
 
 echo Build complete
