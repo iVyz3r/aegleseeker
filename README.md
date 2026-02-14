@@ -21,4 +21,4 @@ cd aegleseeker
 Help me with the project by posting ideas to make a better client for Minecraft Beta.
 
 Discord:
-- an4rchvyzer
+- notvyzer
