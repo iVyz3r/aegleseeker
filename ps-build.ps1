@@ -1,3 +1,10 @@
+<#
+Aegleseeker Client
+Copyright (C) 2026 ilyVyzer_
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3.
+#>
 Write-Host "Setting up the environment..."
 Write-Host "Installing required packages..."
 
