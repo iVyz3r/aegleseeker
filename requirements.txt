@@ -1,0 +1,9 @@
+pymem
+dearpygui
+pypresence
+pyinstaller
+pyautogui
+requests
+psutil
+pillow
+pystray
