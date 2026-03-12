@@ -1,7 +1,11 @@
 # Aegleseeker Client
 
 A hack client for **Minecraft: Windows 10 Edition Beta** 0.15.10.
-![GUI](assets/gui.png)
+## GUI Preview
+
+<p align="center">
+  <img src="assets/gui.png" width="700">
+</p>
 ---
 
 ## Installation
