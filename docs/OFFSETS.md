@@ -253,6 +253,6 @@ patch = b"\xE9" + jmp_offset.to_bytes(4, 'little', signed=True)
 ---
 
 **Last Update**: March 11, 2026  
-**Version**: v1.1.71  
+**Version**: v1.1.61
 **Author**: iVyz3r_  
-**License**: GPL-3.0
+**License**: MIT
