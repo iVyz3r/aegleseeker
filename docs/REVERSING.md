@@ -872,5 +872,5 @@ Document everything. Share knowledge responsibly. Stay curious.
 
 **Last Update**: March 11, 2026  
 **Author**: iVyz3r_  
-**License**: GPL-3.0  
+**License**: MIT
 **Status**: Educational Reference
