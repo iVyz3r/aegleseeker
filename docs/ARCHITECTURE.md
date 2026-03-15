@@ -741,5 +741,5 @@ def enable_new_feature():
 
 **Last Update**: March 11, 2026  
 **Author**: iVyz3r_  
-**License**: GPL-3.0  
+**License**: MIT
 **Status**: Production
