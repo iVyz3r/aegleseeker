@@ -1,8 +1,6 @@
-:: Aegleseeker Client
-:: Copyright (C) 2026 ilyVyzer_
-::
-:: This program is free software: you can redistribute it and/or modify
-:: it under the terms of the GNU General Public License version 3.
+:: Copyright (c) 2026 NqtVyzer
+
+:: Licensed under the MIT License.
 
 @echo off
 echo Setting up the environment...
