@@ -201,6 +201,6 @@ Use responsibly. Follow game terms of service. Respect other players.
 
 **Last Updated**: March 11, 2026  
 **Author**: iVyz3r_  
-**License**: GPL-3.0  
+**License**: MIT 
 **Status**: Active Development  
 **Next Review**: June 11, 2026
