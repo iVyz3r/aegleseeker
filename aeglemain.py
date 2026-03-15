@@ -1,9 +1,6 @@
-# Aegleseeker Client
-# Copyright (C) 2026 ilyVyzer_
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, version 3.
+# Copyright (c) 2026 NqtVyzer
+
+# Licensed under the MIT License.
 
 # aeglemain.py
 import sys
