@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS OUTDATED
+
 # Aegleseeker Client
 
 A hack client for **Minecraft: Windows 10 Edition Beta** 0.15.10.
